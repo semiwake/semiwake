@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semiwake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semiwake)
 <!--
 **semiwake/semiwake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
